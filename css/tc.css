@@ -1,0 +1,21 @@
+.top-content .carousel-item {
+    height: 100vh;
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top-content .carousel-item-1 {
+    background-image: url(../public/img/cangkir-kopin-jago.webp);
+}
+ 
+.top-content .carousel-item-2 {
+    background-image: url(../img/slides/slide-img-2.jpg);
+}
+ 
+.top-content .carousel-item-3 {
+    background-image: url(../img/slides/slide-img-3.jpg);
+}
+ 
+.top-content .carousel-item-4 {
+    background-image: url(../img/slides/slide-img-4.jpg);
+}
